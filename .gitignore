@@ -1,4 +1,6 @@
-_site
-.sass-cache
-./_posts/.backup
-./_posts/.md.backup
+./_posts/
+.backup
+.md.backup
+
+**.backup
+**.md.backup

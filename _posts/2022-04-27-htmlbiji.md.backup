@@ -29,6 +29,7 @@ date: 2022-4-27
     <li>lasagna</li>
   </ul>
 ```	
+
   <ul>
     <li>cat nip</li>
     <li>laser pointers</li>
@@ -43,6 +44,7 @@ ___
 <div id="yx-list">
 
 **创建有序列表**
+
 ```
   <ol>
     <li>dog</li>
@@ -50,6 +52,7 @@ ___
     <li>water</li>
   </ol>
 ```
+
   <ol>
     <li>dog</li>
     <li>big dog</li>
@@ -79,13 +82,26 @@ ___
 **添加required属性**
 
 ```
+
 <form action="">
    <input type="text" required >
    <button type="submit">submit</button>
 </form>
+
 ```
 
-<a src="https://bayimg.com/c1a54aad2b4c50f025b0f453c17abd85c8adfe6f.jpg">
+<form action="">
+   <input type="text" required />
+   <button type="submit">submit</button>
+   
+</form>
+
+<br />
+
+点击submit按钮会出现提示
+
+<img src="https://bayimg.com/c1a54aad2b4c50f025b0f453c17abd85c8adfe6f.jpg">
+
 </a>
 
 ---
